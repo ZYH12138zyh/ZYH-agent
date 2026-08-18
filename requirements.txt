@@ -1,0 +1,17 @@
+# P4_RAG项目案例 依赖清单（版本取自项目 .venv，Python 3.12）
+# 生成日期：2026-08-18
+
+# ===== Web 界面 =====
+streamlit==1.61.1
+
+# ===== LangChain 核心与 RAG 组件 =====
+langchain-core==1.5.0
+langchain-community==0.4.2
+langchain-chroma==1.1.0
+langchain-text-splitters==1.1.2
+
+# ===== 向量数据库（langchain-chroma 底层依赖，chroma_db 持久化） =====
+chromadb==1.5.9
+
+# ===== 阿里云通义千问 / DashScope（embedding、对话、图片视觉模型） =====
+dashscope==1.26.5
