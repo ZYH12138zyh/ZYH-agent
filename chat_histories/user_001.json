@@ -1,0 +1,102 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "我身高170厘米，尺码推荐",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的身高170厘米，结合参考资料中的尺码推荐：\n\n- 若体重在90‑115斤，建议尺码 **M**；\n- 若体重在115‑135斤，建议尺码 **L**；\n- 若体重在130‑150斤，建议尺码 **XL**。\n\n请根据您的实际体重选择对应尺码。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "我高考330，可以报考该学校吗",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的信息“高考330分”，目前**无相关参考资料**说明该分数是否达到目标学校的录取分数线。不同学校、不同年份、不同省份的录取分数线差异较大，建议您：\n\n1. 明确具体想报考的**学校名称**和**所在省份**；  \n2. 查询该校近3年在您所在省份的**最低录取分数线**；  \n3. 对比您的高考分数（含是否为本科线/专科线）进行判断。\n\n如需进一步帮助，请提供学校名称和所在省份。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "我高考330，可以报考该学校吗",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据您提供的参考资料，西安信息职业大学是一所组织学生积极参与人工智能与创新创业赛事的高校，但**资料中未包含该校录取分数线或招生政策信息**。\n\n高考330分是否能报考该校，取决于：\n\n- 您所在的省份（不同省份分数线不同）；  \n- 报考的是本科还是专科批次（西安信息职业大学为职业本科层次高校）；  \n- 当年陕西省（或该校招生省份）的最低录取控制分数线。\n\n建议您：\n\n✅ 查询陕西省教育考试院或西安信息职业大学官网发布的**最新招生简章**；  \n✅ 对比近2–3年该校在您所在省份的**实际录取最低分**；  \n✅ 若330分为理科/物理类或文科/历史类成绩，需对应查看相应类别分数线。\n\n综上，仅凭“330分”和现有资料**无法确定是否可报考**，请结合官方招生数据判断。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "我在学校参加华为的比赛有可能获奖吗",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "根据参考资料，西安信息职业大学积极组织学生参与人工智能与创新创业类赛事，包括**华为举办的昇腾AI创新大赛**。该赛事采用项目制，要求团队提交AI创新方案、进行作品演示和现场路演，赛制与中国国际“互联网+”大学生创新创业大赛类似。\n\n值得一提的是，**该校参赛队伍曾在昇腾AI创新大赛西北赛区获得铜奖**，说明学校具备一定的竞赛基础和指导能力。\n\n因此，**如果你积极参与、组建优秀团队、在指导老师帮助下打磨项目，是完全有可能在华为相关赛事中获奖的**。建议你关注校内赛事选拔通知，尽早准备项目方案。",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
